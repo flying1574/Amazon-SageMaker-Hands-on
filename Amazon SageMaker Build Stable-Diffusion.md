@@ -1,4 +1,4 @@
-# 使用Amazon SageMaker构建AIGC
+# 使用Amazon SageMaker构建Stable-Diffusion
 
 # 前提条件
 
