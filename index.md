@@ -2,7 +2,7 @@
 # Amazon SageMaker 动手实验室
 
 
-![Amazon SageMaker](/Images/amazon-sagemaker.png)
+![Amazon SageMaker](/images/amazon-sagemaker.png)
 
 这个动手实验室会通过三个不同类型的实验引导您如何使用Amazon SageMaker，让您感受SageMaker的非凡之处。
 
