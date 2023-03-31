@@ -2,7 +2,7 @@
 # Amazon SageMaker 动手实验室
 
 
-![Amazon SageMaker](/images/amazon-sagemaker.png)
+![Amazon SageMaker](https://raw.githubusercontent.com/flying1574/Amazon-SageMaker-Hands-on/main/images/Amazon%20SageMaker.png)
 
 这个动手实验室会通过三个不同类型的实验引导您如何使用Amazon SageMaker，让您感受SageMaker的非凡之处。
 
@@ -13,8 +13,5 @@
 如果您想获取更多有关Amazon SageMaker的知识，请阅读
 [亚马逊 SageMaker](https://docs.aws.amazon.com/zh_cn/sagemaker/latest/dg/whatis.html).
 
-## Reliability Labs
 
-
-{{% children depth=2 / %}}
 
